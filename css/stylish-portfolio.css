@@ -204,6 +204,12 @@ h6 {
   background: #343a40;
 }
 
+#schedule .table.schedule {
+  margin: 40px auto;
+  text-align: center;
+  max-width: 600px;
+}
+
 .service-icon {
   background-color: #fff;
   color: #1D809F;
