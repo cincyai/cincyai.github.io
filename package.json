@@ -1,0 +1,27 @@
+{
+  "name": "cincyai.github.io",
+  "description": "The Cincinnati School of AI website.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/cincyai/cincyai.github.io",
+  "author": "Brian Woodward (https://doowb.com)",
+  "repository": "cincyai/cincyai.github.io",
+  "bugs": {
+    "url": "https://github.com/cincyai/cincyai.github.io/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cincyai",
+    "github",
+    "io"
+  ]
+}
