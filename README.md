@@ -1,6 +1,6 @@
 # cincyai.github.io [![NPM version](https://badge.fury.io/js/cincyai.github.io.svg)](https://npmjs.org/package/cincyai.github.io) [![Build Status](https://travis-ci.org/cincyai/cincyai.github.io.svg?branch=master)](https://travis-ci.org/cincyai/cincyai.github.io)
 
-> The Cincinnati School of AI website.
+> The Cincy AI website.
 
 ## Installation
 
